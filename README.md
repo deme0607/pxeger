@@ -1,4 +1,5 @@
 # Pxeger
+[![Build Status](https://travis-ci.org/deme0607/pxeger.svg?branch=master)](https://travis-ci.org/deme0607/pxeger)
 
 Random string gemerator from regular expression.
 Refered to [cho45/String_random.js](https://github.com/cho45/String_random.js)
